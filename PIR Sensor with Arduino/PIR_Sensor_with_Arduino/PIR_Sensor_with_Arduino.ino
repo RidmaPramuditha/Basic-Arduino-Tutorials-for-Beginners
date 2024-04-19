@@ -29,7 +29,7 @@ void loop(){
   
     if (pirState == HIGH)
   {
-      Serial.println("Motion ended!");  // print on output change
+      Serial.println("Motion ended!!");  // print on output change
       pirState = LOW;
     }
   }
