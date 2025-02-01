@@ -1,4 +1,4 @@
-const int xInput = A0;
+const int xInput = A5;
 const int yInput = A1;
 const int zInput = A2;
 
